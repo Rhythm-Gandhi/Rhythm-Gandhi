@@ -48,9 +48,9 @@ Built a Library Management System using ASP.NET Core MVC, Entity Framework Core,
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, Java, C#, TypeScript, JavaScript, SQL |
-| Frontend | React, HTML, CSS, Bootstrap |
-| Backend | FastAPI, Flask, ASP.NET Core MVC, REST APIs, WebSockets |
+| Languages | Python, Java, TypeScript, JavaScript, SQL |
+| Frontend | React, HTML, CSS |
+| Backend | FastAPI, Flask, REST APIs, WebSockets |
 | AI & retrieval | PyTorch, Hugging Face Transformers, Gemini, Mistral, RoBERTa, RAG |
 | Databases | MySQL, SQL Server, ChromaDB |
 | Development & security | Git, GitHub Actions, Pytest, Vitest, OAuth 2.0, ASP.NET Core Identity |
