@@ -20,7 +20,7 @@ Team hackathon project combining document search, graph retrieval, and answer ev
 ### [Piko — Voice Command Shopping Assistant](https://github.com/Rhythm-Gandhi/unthinkable-VOICE-COMMAND)
 Turns voice and typed grocery requests into structured shopping-list operations. Handles multilingual product aliases, quantity conversion, uncertain commands, and purchase-history suggestions with browser-local storage.
 
-**React · TypeScript · Web Speech API · Vitest** · [Live demo](https://rhythm-gandhi.github.io/unthinkable-VOICE-COMMAND/)
+**React · TypeScript · Web Speech API · Vitest** · [Live demo](https://rhythm-gandhi.github.io/PIKO-VOICE-COMMAND/)
 
 ### [Samantha AI — Conversational Assistant](https://github.com/Rhythm-Gandhi/SamanthaAI-Conversational-AI-)
 A conversational AI prototype combining Mistral-7B responses, RoBERTa emotion classification, and speech interaction. Includes Flask APIs, conversation context, and Google Calendar/Gmail integrations through OAuth.
